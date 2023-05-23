@@ -5,17 +5,17 @@ A simple latex preview for solution for Neovim
 
 
 ## steps
--[X] example implementation for mathjax-node for svg creation 
--[X] example implementation for svg to png without browser -> resvg/resvg-js 
--[ ] integrating *resvg* & *mathjax* to produce png for any latex input
--[ ] starting treesitter integration - recoginzing $$,$ \( \), \[,\] and @math @end symbols
--[ ] integration with hologram - image preview 
--[ ] .
--[ ] .
--[ ] making clone for `mathjax-node-svg2png` npm package (may be `mathjax-node-png`?) and separating js from lua 
--[ ] exposing mathjax options through lua
--[ ] proper `neorg` integration
--[ ]
+- [X] example implementation for mathjax-node for svg creation 
+- [X] example implementation for svg to png without browser -> resvg/resvg-js 
+- [ ] integrating *resvg* & *mathjax* to produce png for any latex input
+- [ ] starting treesitter integration - recoginzing $$,$ \( \), \[,\] and @math @end symbols
+- [ ] integration with hologram - image preview 
+- [ ] .
+- [ ] .
+- [ ] making clone for `mathjax-node-svg2png` npm package (may be `mathjax-node-png`?) and separating js from lua 
+- [ ] exposing mathjax options through lua
+- [ ] proper `neorg` integration
+- [ ]
 
 
 
