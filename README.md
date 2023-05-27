@@ -2,6 +2,9 @@
 
 A simple latex preview for solution for Neovim 
 
+> IT WAS A DUMB IDEA TO USE MATHJAX... 
+> archiving this, here is the new project with proper latex engine  - https://github.com/Vaisakhkm2625/hologram-math-preview.nvim 
+
 
 
 ## steps
